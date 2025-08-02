@@ -14,4 +14,4 @@ Key highlights:
 
 While the model achieves high accuracy (95%+) on the RAVDESS dataset, it's important to note that RAVDESS is a small, clean, and highly acted dataset with limited diversity in speakers, recording conditions, and naturalness of emotions.
 
-Therefore, this model may not generalize well to real-world audio with spontaneous emotions, background noise, varied accents, or different recording environments. Further training on larger, more diverse datasets (e.g., CREMA-D, EmoDB, or real-world recordings) and domain adaptation would be required for practical deployment.
+Therefore, this model may not generalize well to real-world audio with spontaneous emotions, background noise, varied accents, or different recording environments. 
