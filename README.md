@@ -1,7 +1,5 @@
 # Speech-Emotion-Recognition-with-RAVDESS-dataset
-3D CNN for speech emotion recognition on the RAVDESS dataset using MFCC &amp; mel spectrogram features.
-
-This project implements a robust 3D Convolutional Neural Network (3D CNN) for speech emotion recognition using the RAVDESS dataset. The pipeline includes audio preprocessing, data augmentation (noise injection, pitch shifting), class imbalance handling, MFCC + mel spectrogram feature extraction, and L2 normalization to reduce speaker bias.
+This project implements a 3D Convolutional Neural Network (3D CNN) for speech emotion recognition using the RAVDESS dataset. The pipeline includes audio preprocessing, data augmentation (noise injection, pitch shifting), class imbalance handling, MFCC + mel spectrogram feature extraction, and L2 normalization to reduce speaker bias.
 
 The model achieves over **95% test accuracy** and a macro F1-score of **0.95+** across 8 emotion classes, demonstrating strong generalization.
 
