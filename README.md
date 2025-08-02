@@ -12,8 +12,6 @@ Key highlights:
 - Early stopping and detailed training visualization
 - Classification report with precision, recall, and F1-score per class
 
-This project reflects a full machine learning pipeline: from raw data to evaluation and critical model design.
-
 ## Limitations
 
 While the model achieves high accuracy (95%+) on the RAVDESS dataset, it's important to note that RAVDESS is a small, clean, and highly acted dataset with limited diversity in speakers, recording conditions, and naturalness of emotions.
