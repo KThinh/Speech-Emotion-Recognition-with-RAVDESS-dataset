@@ -4,7 +4,7 @@ This project implements a 3D Convolutional Neural Network (3D CNN) for speech em
 The model achieves over **95% test accuracy** and a macro F1-score of **0.95+** across 8 emotion classes, demonstrating strong generalization.
 
 Key highlights:
-- Conv3D architecture with GroupNorm, Dropout3D, and global pooling
+- Conv3D architecture with GroupNorm, Dropout, and global pooling
 - Data augmentation & oversampling for handling label imbalance
 - L2 normalization to reduce overfitting on speaker identity
 - Early stopping and detailed training visualization
